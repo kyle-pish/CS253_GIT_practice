@@ -4,3 +4,4 @@ var dayList = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday",
 console.log("Today is " + dayList[day] + ".")
 var hour = today.getHours();
 var minute = today.getMinutes();
+var seconds = today.getSeconds();
